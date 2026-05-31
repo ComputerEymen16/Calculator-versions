@@ -1,9 +1,9 @@
-Calculator 3.1v
-🚀 Calculator - Version 3.1v: "System Architect Edition" proudly presented by "Computer Eymen". Calculator v3.1 is not just an update; it's a C masterpiece, free from unnecessary code (bloatware) and directly controlling the hardware.
+Calculator 3.2v
+Calculator - Version 3.2v: "System Architect Edition" proudly presented by "Computer Eymen". Calculator v3.2 is not just an update; it's a C masterpiece, free from unnecessary code (bloatware) and directly controlling the hardware.
 
 "Talking is cheap, show me your code. Your memorized test books aren't worth a single line of this algorithm." — Computer Eymen
 
-🛠️ What's Changed in Version 3.1? System Optimization: The code infrastructure has been re-optimized with 100% pure C.
+🛠️ What's Changed in Version 3.2? System Optimization: The code infrastructure has been re-optimized with 100% pure C.
 
 Enhanced Error Handling: "Division by zero" errors are no longer just errors, but a protective shield for the system.
 
@@ -19,7 +19,7 @@ Open your C compiler (GCC is recommended).
 
 Run the following command in the terminal:
 
-Bash gcc Calculator_3.1v.c -o ComputerEymen_v31.exe Run the resulting file and feel the power of the C language.
+Bash gcc Calculator_3.2v.c -o ComputerEymen_v3.2.exe Run the resulting file and feel the power of the C language.
 
 ⚠️ Security and Transparency Your Windows or browser may give a "Not Secure" warning. This is normal. Because:
 
